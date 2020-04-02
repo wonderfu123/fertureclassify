@@ -1,2 +1,2 @@
 # fertureclassify
-机器学习课程实践
+基于caffe的通过修改AlexNet结构进行人脸表情识别的神经网络训练，并最终将训练所得模型部署到华为Atlas开发板上通过python脚本进行运行，详情见项目说明
